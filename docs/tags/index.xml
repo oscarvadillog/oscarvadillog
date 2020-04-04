@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on oscarvadillog</title>
-    <link>https://oscarvadillog.github.io/tags/</link>
+    <link>https://oscarvadillog.github.io/oscarvadillog/tags/</link>
     <description>Recent content in Tags on oscarvadillog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://oscarvadillog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oscarvadillog.github.io/oscarvadillog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
